@@ -1,0 +1,8 @@
+pyproject.toml
+*.log
+*.sh
+__pycache__
+**/.vscode/
+embeddings/
+results/
+knn/
