@@ -18,12 +18,12 @@ All results will be saved in `./results` directory.
 - [Linear Probing](./linear_probing/)
   - Kinetics-400
   - Something-Something-v2
-  - Moments in Time
+  - Moments-in-Time
   - Diving 48
 - [K-Nearest-Neighbor](./knn/)
   - Kinetics-400
   - Something-Something-v2
-  - Moments in Time
+  - Moments-in-Time
   - Diving 48
 - [Temporal Action Localization](./temporal_action_localization/)
   - ActivityNet v1.3
@@ -35,7 +35,7 @@ All results will be saved in `./results` directory.
 - [Embedding Visualization](./visualization/)
   - Kinetics-400
   - Something-Something-v2
-  - Moments in Time
+  - Moments-in-Time
   - Diving 48
 
 
