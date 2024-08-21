@@ -5,4 +5,3 @@ __pycache__
 **/.vscode/
 embeddings/
 results/
-knn/
