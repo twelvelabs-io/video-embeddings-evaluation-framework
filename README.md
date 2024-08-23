@@ -9,7 +9,7 @@ We hope that (1) the published embeddings will help to achieve high performance 
 ## Original Paper
 Please refer to our technical report for the further details of the evaluation pipeline.
 
-TBD
+[Paper Link](https://arxiv.org/abs/2408.11318v1)
 
 
 ## Downstream Tasks & Supported Benchmarks
